@@ -25,6 +25,6 @@ while True:
    
     temp_F = (temp_C * 9/5) + 32
    
-   lcd.print("Temperature: {}C {}F".format(temp_C, temp_F))``
+   lcd.print("Temperature: {}C {}F".format(temp_C, temp_F))
     print("Temperature: {}C {}F".format(temp_C, temp_F))
     time.sleep(1.0)
