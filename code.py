@@ -1,3 +1,4 @@
+#CREDIT TO PAUL WEDER
 import board
 import analogio
 import time
