@@ -1,3 +1,4 @@
+#CREDIT TO PAUL WEDER
 import rotaryio
 import time
 import board
